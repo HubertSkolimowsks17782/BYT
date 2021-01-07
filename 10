@@ -1,0 +1,43 @@
+commit dc95403cf735e7518286e4f02528d97ee294a755
+Merge: cf3b90c 0ce8c40
+Author: Hubert Skolimowski <s17782@pjwstk.edu.pl>
+Date:   Thu Jan 7 20:48:31 2021 +0100
+
+    last commit Merge branch 'notmaster'
+
+commit 0ce8c405f32395c6b2355b1a5e4367a4f6284afc
+Author: Hubert Skolimowski <s17782@pjwstk.edu.pl>
+Date:   Thu Jan 7 20:30:38 2021 +0100
+
+    Commit from notmaster branch file2
+
+ file2.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit cf3b90c23480debcc6f2b4670676b3f5ddfea25f
+Author: Hubert Skolimowski <s17782@pjwstk.edu.pl>
+Date:   Thu Jan 7 20:26:37 2021 +0100
+
+    Commit Message 9
+
+ file2.txt | 2 +-
+ file2.tzt | 0
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+
+commit 4e8ecd58c69fa10cbc85777deeb30a320fc738e3
+Author: Hubert Skolimowski <s17782@pjwstk.edu.pl>
+Date:   Thu Jan 7 20:17:04 2021 +0100
+
+    Second Commit
+
+ file2.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 9bfb9eda07a048c3ca344da6f2747f80f6a22f7d
+Author: Hubert Skolimowski <s17782@pjwstk.edu.pl>
+Date:   Thu Jan 7 20:14:54 2021 +0100
+
+    First commit
+
+ File.txt | 3 +++
+ 1 file changed, 3 insertions(+)
